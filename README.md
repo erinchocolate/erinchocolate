@@ -1,3 +1,4 @@
+```bash
 $ fortune | cowsay
  ____________________________________
 / Try to relax and enjoy the crisis. \
@@ -9,6 +10,7 @@ $ fortune | cowsay
             (__)\       )\/\
                 ||----w |
                 ||     ||
+```
 
 ```python
 class Meiqiao:

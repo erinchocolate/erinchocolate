@@ -1,5 +1,44 @@
-### Hi there 👋
+$ fortune | cowsay
+ ____________________________________
+/ Try to relax and enjoy the crisis. \
+|                                    |
+\ -- Ashleigh Brilliant              /
+ ------------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
 
+```python
+class Meiqiao:
+
+    def __init__(self):
+        self.username = 'erinchocolate'
+        self.name = 'Meiqiao Chen'
+        self.code = {
+            'frontend': ['HTML', 'CSS', 'JavaScript', 'ReactJS', 'TailWind'],
+            'backend': ['Python', 'C#', 'Java', 'NodeJS'],
+            'database': ['PostgreSQL', 'MySQL', 'MSSQL'],
+            'devops': ['Docker', 'AzureDevOps', 'TeamCity', 'AWS'],
+            'tools': ['GIT', 'GitHub', 'Figma'],
+            'misc': ['BDD', 'TDD', 'SCRUM', 'SOLID', 'GNU/Linux']
+        }
+        self.architecture = ['SPA', 'MVC']
+
+    def __str__(self):
+        return self.name
+
+
+if __name__ == '__main__':
+    me = Meiqiao()
+```
+## Get in touch
+
+- Personal Site: https://meiqiaochen.co.nz
+- Blog: https://blog.meiqiaochen.co.nz
+
+⭐️ Inspried by [rafnixg](https://github.com/rafnixg)
 <!--
 **erinchocolate/erinchocolate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

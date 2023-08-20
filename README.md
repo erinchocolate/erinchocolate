@@ -37,8 +37,8 @@ if __name__ == '__main__':
 ```
 ## Get in touch
 
-- Personal Site: https://meiqiaochen.co.nz
-- Blog: https://blog.meiqiaochen.co.nz
+- Personal Site: [https://meiqiaochen.co.nz](https://meiqiaochen.co.nz)
+- Blog: [https://www.meiqiaochen.blog](https://www.meiqiaochen.blog)
 
 ⭐️ Inspried by [rafnixg](https://github.com/rafnixg)
 <!--

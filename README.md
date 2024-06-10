@@ -21,12 +21,8 @@ class Meiqiao:
         self.code = {
             'frontend': ['HTML', 'CSS', 'JavaScript', 'ReactJS', 'TailWind'],
             'backend': ['Python', 'C#', 'Java', 'NodeJS'],
-            'database': ['PostgreSQL', 'MySQL', 'MSSQL'],
-            'devops': ['Docker', 'AzureDevOps', 'TeamCity', 'AWS'],
-            'tools': ['GIT', 'GitHub', 'Figma'],
-            'misc': ['BDD', 'TDD', 'SCRUM', 'SOLID', 'GNU/Linux']
+            'tools': ['Docker', 'AzureDevOps', 'TeamCity', 'AWS', 'Git']
         }
-        self.architecture = ['SPA', 'MVC']
 
     def __str__(self):
         return self.name
@@ -35,10 +31,6 @@ class Meiqiao:
 if __name__ == '__main__':
     me = Meiqiao()
 ```
-## Get in touch
-
-- Personal Site: [https://meiqiaochen.co.nz](https://meiqiaochen.co.nz)
-- Blog: [https://meiqiaochen.blog](https://meiqiaochen.blog)
 
 ⭐️ Inspried by [rafnixg](https://github.com/rafnixg)
 <!--
